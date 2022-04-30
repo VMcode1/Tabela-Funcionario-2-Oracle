@@ -1,0 +1,7 @@
+# Tabela-Funcionario-2-Oracle (Segue os prints)
+![TABELA FUNCIONARIO ORACLE ](https://user-images.githubusercontent.com/102692118/166108949-4a3e3793-c911-463b-bca2-0ba8fa7073e4.jpg)
+![TABELA FUNCIONARIO ORACLE 2](https://user-images.githubusercontent.com/102692118/166108951-f2529503-2bff-4fad-8afa-ce54cab0deb8.jpg)
+![TABELA FUNCIONARIO ORACLE 3](https://user-images.githubusercontent.com/102692118/166108955-2ec87498-8297-46e9-a465-a4f4b7b5bf08.jpg)
+![TABELA FUNCIONARIO ORACLE 4](https://user-images.githubusercontent.com/102692118/166108956-5fb7df17-de91-4c7a-9463-1a8a21842f5e.jpg)
+![TABELA FUNCIONARIO ORACLE 5](https://user-images.githubusercontent.com/102692118/166108957-3dc080c4-3e54-4b78-af03-4c752298ccc6.jpg)
+![TABELA FUNCIONARIO ORACLE 6](https://user-images.githubusercontent.com/102692118/166108958-c6aba8bb-90a6-4c97-bde1-0fc39090d936.jpg)
